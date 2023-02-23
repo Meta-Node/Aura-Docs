@@ -2,9 +2,9 @@
 
 To access Aura, use your BrightID Explorer Code and Password.
 
-Follow the steps below to locate them.
-
 ![](<../.gitbook/assets/Screen Shot 2022-10-22 at 8.49 1 (1).png>)
+
+Follow the steps below to locate them.
 
 ### Finding your explorer code and password
 
@@ -19,11 +19,10 @@ Follow the steps below to locate them.
 
 ![](../.gitbook/assets/bid-inst-explorer-code.png)
 
-
-
 #### Password[​](https://elated-murdock-5004e1.netlify.app/docs/aura-getting-started/login#password) <a href="#password" id="password"></a>
 
-* Click the menu button at the top left and click "Edit Profile."
+* In the BrightID mobile app, click the menu button at the top left.
+* Click "Edit Profile."
 
 ![](<../.gitbook/assets/image (2).png>)
 
