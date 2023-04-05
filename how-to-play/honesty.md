@@ -1,4 +1,4 @@
-# 📜 Honesty
+# Honesty
 
 ## Honesty
 

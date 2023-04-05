@@ -1,4 +1,4 @@
-# 🐲 Goals of Aura
+# Goals of Aura
 
 ### Privacy first
 
@@ -14,10 +14,10 @@ Aura players have “skin in the game."  Mistakes cost them [energy](../how-to-p
 
 ### Decentralized
 
-Aura is resilient against fraud. If an [energy team](energy-teams.md) becomes corrupted, other teams are waiting to take its place. The market for apps needing uniqueness verification determines which teams' answers in Aura are used as part of a [verification level](../how-to-play/verification-levels.md).
+Aura is resilient against fraud. If an [energy team](teams.md) becomes corrupted, other teams are waiting to take its place. The market for apps needing uniqueness verification determines which teams' answers in Aura are used as part of a [verification level](../how-to-play/verification-levels.md).
 
 ### Scalable
 
 Apps seeking to expand into regions lacking verification can reward energy teams that cover those regions. On a local level, the need for uniqueness verification drives well-connected users to learn to become Aura players.\
 \
-[Energy](energy-teams.md#rewarding-aura-players) provides an easy metric for [distributing monetary rewards to Aura players](energy-teams.md#rewarding-aura-players).
+[Energy](teams.md#rewarding-aura-players) provides an easy metric for [distributing monetary rewards to Aura players](teams.md#rewarding-aura-players).

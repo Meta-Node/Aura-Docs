@@ -1,4 +1,4 @@
-# 🔮 How Aura works
+# How Aura works
 
 ### Types of users
 
@@ -24,4 +24,4 @@ The inner graph flows energy between Aura players based on how other players per
 
 ### Decentralization and resilience
 
-Energy flows provide a decentralized way for expert Aura players to select each other. [Energy teams](energy-teams.md) allow Aura to be resilient even if one type of energy becomes corrupted.
+Energy flows provide a decentralized way for expert Aura players to select each other. [Energy teams](teams.md) allow Aura to be resilient even if one type of energy becomes corrupted.

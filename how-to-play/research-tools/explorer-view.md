@@ -1,4 +1,4 @@
-# 🔭 Explorer view
+# Explorer view
 
 :link: Aura Explorer: [https://explorer.brightid.org/?aura=aura](https://explorer.brightid.org/?aura=aura)
 

@@ -2,7 +2,7 @@
 
 ## Intro
 
-* [🧙🏾 Who should play Aura?](README.md)
+* [⚽ Who should play Aura?](README.md)
 
 ## Getting Started
 
@@ -22,4 +22,4 @@
 
 * [Goals of Aura](background/goals-of-aura.md)
 * [How Aura works](background/how-aura-works.md)
-* [Teams](background/energy-teams.md)
+* [Teams](background/teams.md)

@@ -1,4 +1,4 @@
-# 🔆 Get BrightID
+# Get BrightID
 
 ## Download from app stores
 

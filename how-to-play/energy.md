@@ -1,4 +1,4 @@
-# ⚡ Energy
+# Energy
 
 ## Energy
 
@@ -8,7 +8,7 @@ You should allocate energy to other Aura players based on how well they play Aur
 
 ### Energy flows
 
-You can see how much energy is flowing to and from you from the [explorer view](research-tools/explorer-view.md).  How much energy flows to you from another player depends on how much energy they had and what percentage of their energy they allocated to you.  Energy starts with [energy teams](../background/energy-teams.md).
+You can see how much energy is flowing to and from you from the [explorer view](research-tools/explorer-view.md).  How much energy flows to you from another player depends on how much energy they had and what percentage of their energy they allocated to you.  Energy starts with [energy teams](../background/teams.md).
 
 ### Search for a player
 

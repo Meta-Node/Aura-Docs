@@ -1,4 +1,4 @@
-# 👸 Verification levels
+# Verification levels
 
 ## Helping people get verified
 
