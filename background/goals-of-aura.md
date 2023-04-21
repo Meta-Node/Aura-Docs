@@ -14,7 +14,7 @@ Aura players have “skin in the game."  Mistakes cost them [energy](../how-to-p
 
 ### Decentralized
 
-Aura is resilient against fraud. If an [energy team](teams.md) becomes corrupted, other teams are waiting to take its place. The market for apps needing uniqueness verification determines which teams' answers in Aura are used as part of a [verification level](../how-to-play/verification-levels.md).
+Aura is resilient against fraud. If a [team](teams.md) becomes corrupted, other teams are waiting to take its place. The market for apps needing uniqueness verification determines which teams' answers in Aura are used as part of a [verification level](../how-to-play/verification-levels.md).
 
 ### Scalable
 
