@@ -3,7 +3,7 @@ cover: .gitbook/assets/image (19).png
 coverY: 0
 ---
 
-# ⚽ Who should play Aura?
+# Who should play Aura?
 
 [Aura](https://aura.brightid.org) is a decentralized verification system. Anyone is welcome to play to help verify those they already know.\
 \

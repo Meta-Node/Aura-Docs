@@ -2,7 +2,7 @@
 
 ## Intro
 
-* [⚽ Who should play Aura?](README.md)
+* [Who should play Aura?](README.md)
 
 ## Getting Started
 
