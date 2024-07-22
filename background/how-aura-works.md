@@ -18,10 +18,10 @@ Aura players consist of inquisitive users. They assign [honesty ratings](../how-
 
 Aura players send each other [energy](../how-to-play/energy.md), which represents the power to verify other BrightID users. This results in an inner graph composed of Aura players and an outer graph of the rest of BrightID users.
 
-![](<../.gitbook/assets/image (24).png>)
+![](<../.gitbook/assets/image (18).png>)
 
 The inner graph flows energy between Aura players based on how other players perceive their ability to play the game. Energy flow is done using the [SybilRank algorithm](https://www.usenix.org/system/files/conference/nsdi12/nsdi12-final42\_2.pdf) adapted for a directed graph with weighted edges. This algorithm is based on the well-known PageRank algorithm. It works better when edges represent a transitive relationship, which is possible in Aura where edges represent "how well A thinks B plays Aura" rather than "how well A knows B," which was the case in [previous BrightID verifications](https://github.com/BrightID/BrightID-AntiSybil).
 
 ### Decentralization and resilience
 
-Energy flows provide a decentralized way for expert Aura players to select each other. [Energy teams](teams.md) allow Aura to be resilient even if one type of energy becomes corrupted.
+Energy flows provide a decentralized way for expert Aura players to select each other. [Teams](teams.md) allow Aura to be resilient even if one type of energy becomes corrupted.

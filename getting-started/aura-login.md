@@ -24,7 +24,7 @@ Follow the steps below to locate them.
 * In the BrightID mobile app, click the menu button at the top left.
 * Click "Edit Profile."
 
-![](<../.gitbook/assets/image (2).png>)
+![](<../.gitbook/assets/image (25).png>)
 
 * Click "View Password"
 

@@ -4,7 +4,7 @@ Connections are people you have connected to on [BrightID](../getting-started/ge
 
 ### Search for connections
 
-![](<../.gitbook/assets/image (29).png>)
+![](<../.gitbook/assets/image (12).png>)
 
 #### By BrightID name
 
@@ -12,7 +12,7 @@ Search for your connections by BrightID user name in the top search bar.
 
 #### By nickname
 
-![](<../.gitbook/assets/image (1).png>)
+![](<../.gitbook/assets/image (6).png>)
 
 You can update the nickname of any of your connections from their profile page, and search by this name along with their default BrightID name.
 

@@ -8,7 +8,7 @@ As an Aura player, your main task is to rate the honesty of your "already known"
 
 From a person's profile page you can use the slider to set an "honesty" rating from -4 (definitely a [sybil](https://en.wikipedia.org/wiki/Sybil\_attack)) to 4 (definitely not a sybil)\
 \
-![](<../.gitbook/assets/image (26).png>)
+![](../.gitbook/assets/image.png)
 
 ### Mutual Connections
 

@@ -14,7 +14,7 @@ You can see how much energy is flowing to and from you from the [explorer view](
 
 Use the search bar at the top of the page to locate a specific player.
 
-![](<../.gitbook/assets/image (28).png>)
+![](<../.gitbook/assets/image (13).png>)
 
 ### View energy
 
@@ -34,7 +34,7 @@ Allocate energy to other Aura players.
 
 You can allocate energy to any connection you've given an honesty rating of at least "1". You should only allocate energy to someone you know will play the Aura game--otherwise you're wasting energy and others may decrease their energy allocation to you.
 
-![](<../.gitbook/assets/image (25).png>)
+![](<../.gitbook/assets/image (8).png>)
 
 #### Percentage allocations
 
@@ -42,6 +42,10 @@ As soon as you allocate any energy, 100% of your energy will be allocated. Use â
 
 #### Saving your allocations &#x20;
 
+<div align="left">
+
 <figure><img src="../.gitbook/assets/save-changes.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 When you're satisfied with any changes you've made to energy allocations, hit the "save changes" button.
