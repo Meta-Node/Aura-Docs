@@ -17,9 +17,9 @@
 
 <figure><img src="../.gitbook/assets/Clink-Aura-BrightID-link.png" alt=""><figcaption></figcaption></figure>
 
-## Add Aura as a super app to BrightID devices
+### Add Aura as a super app to BrightID devices
 
-The following screens will show on your BrightID app after you scan or click the code.
+You will see these screens on the BrightID app after you scan or click the code.
 
 <figure><img src="../.gitbook/assets/Add-super-app.jpeg" alt="" width="375"><figcaption></figcaption></figure>
 
@@ -29,11 +29,9 @@ The following screens will show on your BrightID app after you scan or click the
 
 Name the super app device you've created. You can name it "Aura" as suggested or you can include a browser and device in the name such as "Aura-Chrome-Laptop" if you plan to use Aura from multiple devices.
 
-
-
 <figure><img src="../.gitbook/assets/Name-BrightID-Device.jpeg" alt="" width="375"><figcaption></figcaption></figure>
 
-Doing this will allow Aura to see all of your BrightID names and photos and allow you to make special BrightID connections called "Evaluations" from the Aura app.
+Now Aura can see all of your BrightID names and photos and allow you to make special BrightID connections called "Evaluations" from the Aura app.
 
 You will now be logged in to Aura, and the screen on the Aura app will change to the [Home screen](../how-to-play/home-screen.md).&#x20;
 
