@@ -2,11 +2,11 @@
 
 ## Intro
 
-* [Who should play Aura?](README.md)
+* [🌀 What is Aura?](README.md)
 
 ## Getting Started
 
-* [Get BrightID](getting-started/get-brightid.md)
+* [🔆 Get BrightID](getting-started/get-brightid.md)
 * [🗝️ Aura login](getting-started/aura-login.md)
 
 ## How to Play

@@ -3,13 +3,14 @@ cover: .gitbook/assets/image (28).png
 coverY: 0
 ---
 
-# Who should play Aura?
+# 🌀 What is Aura?
 
-[Aura](https://aura.brightid.org) is a decentralized verification system. Anyone is welcome to play to help verify those they already know.\
+[Aura](https://aura.brightid.org) is a decentralized platform where experts evaluate each other in a domain and in turn evaluate subjects. The are many possible subject domains including: code audits, insurance claims, and unique anonymous humans.\
 \
-Most people won't need to play to become verified by Aura; they just need to know one person who is playing Aura.
+In the BrightID domain, experts evaluate whether a BrightID account is a person's only account or a duplicate. This can result in a positive Aura verification level for the person in BrightID, which in turn can unlock their ability to link to apps that want an assurance that users only have one account.
 
-To meet other Aura players and discuss strategy, [join the Aura discord](https://discord.com/invite/e2ShH4kN3S).
+[The BrightID mobile app](getting-started/get-brightid.md) is used to create a universal, socially recoverable identifier for each person to which Aura players can refer. No personal information is shared to Aura players that they don't already know about a subject.
 
-{% embed url="https://discord.gg/e2ShH4kN3S" %}
+Although anyone is welcome to play Aura to help verify other people, this isn't required to get an Aura verification level. Most people wanting an Aura verification level should simply install the [BrightID mobile app](getting-started/get-brightid.md) and follow the instructions.
 
+If you would like to learn more about how Aura works, meet other Aura players, and discuss best practices, [join the Aura discord](https://discord.gg/y24xeXq7mj).
