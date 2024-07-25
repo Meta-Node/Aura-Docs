@@ -11,6 +11,7 @@
 
 ## How to Play
 
+* [🏡 Home screen](how-to-play/home-screen.md)
 * [🫧 Connections](how-to-play/connections.md)
 * [Honesty](how-to-play/honesty.md)
 * [Verification levels](how-to-play/verification-levels.md)

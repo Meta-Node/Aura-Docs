@@ -1,31 +1,39 @@
 # 🗝️ Aura login
 
-To access Aura, use your BrightID Explorer Code and Password.
+### If you're on a computer
 
-![](<../.gitbook/assets/Screen Shot 2022-10-22 at 8.49 1 (1).png>)
+1. Open BrightID on your mobile device
+2. Choose "Scan a code" from the home screen
 
-Follow the steps below to locate them.
+<figure><img src="../.gitbook/assets/Scan-a-code.jpeg" alt="" width="375"><figcaption></figcaption></figure>
 
-### Finding your explorer code and password
+3. Scan the code on the Aura login screen
 
-#### Explorer code
+<figure><img src="../.gitbook/assets/BrightID-Aura-Code.png" alt=""><figcaption></figcaption></figure>
 
-* In the BrightID mobile app, click the menu button at the top left.
-* Click "Copy Explorer Code."
+### If you're on your mobile device
 
-![](../.gitbook/assets/bid-inst-menu.png)
+* Click the link on the Aura login screen
 
-* Click the "Copy Code" Button.
+<figure><img src="../.gitbook/assets/Clink-Aura-BrightID-link.png" alt=""><figcaption></figcaption></figure>
 
-![](../.gitbook/assets/bid-inst-explorer-code.png)
+## Add Aura as a super app to BrightID devices
 
-#### Password[​](https://elated-murdock-5004e1.netlify.app/docs/aura-getting-started/login#password) <a href="#password" id="password"></a>
+The following screens will show on your BrightID app after you scan or click the code.
 
-* In the BrightID mobile app, click the menu button at the top left.
-* Click "Edit Profile."
+<figure><img src="../.gitbook/assets/Add-super-app.jpeg" alt="" width="375"><figcaption></figcaption></figure>
 
-![](<../.gitbook/assets/image (25).png>)
 
-* Click "View Password"
 
-![](../.gitbook/assets/bid-inst-profile.png)
+<figure><img src="../.gitbook/assets/Downloading-BrightID-Data-to-Aura.jpeg" alt="" width="375"><figcaption></figcaption></figure>
+
+Name the super app device you've created. You can name it "Aura" as suggested or you can include a browser and device in the name such as "Aura-Chrome-Laptop" if you plan to use Aura from multiple devices.
+
+
+
+<figure><img src="../.gitbook/assets/Name-BrightID-Device.jpeg" alt="" width="375"><figcaption></figcaption></figure>
+
+Doing this will allow Aura to see all of your BrightID names and photos and allow you to make special BrightID connections called "Evaluations" from the Aura app.
+
+You will now be logged in to Aura, and the screen on the Aura app will change to the [Home screen](../how-to-play/home-screen.md).&#x20;
+
