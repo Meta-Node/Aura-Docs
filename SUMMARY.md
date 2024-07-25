@@ -2,7 +2,7 @@
 
 ## Intro
 
-* [What is Aura?](README.md)
+* [🌀 What is Aura?](README.md)
 
 ## Getting Started
 

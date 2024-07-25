@@ -1,9 +1,23 @@
 ---
 cover: .gitbook/assets/image (28).png
 coverY: 0
+layout:
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
 ---
 
-# What is Aura?
+# 🌀 What is Aura?
 
 [Aura](https://aura.brightid.org) is a decentralized platform where experts evaluate each other in a domain and in turn evaluate subjects. The are many possible subject domains including: code audits, insurance claims, and unique anonymous humans.\
 \
