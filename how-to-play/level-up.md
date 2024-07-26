@@ -16,4 +16,4 @@ You should contact Trainers and ask them to review your evaluations.&#x20;
 
 ## Viewing your Evaluations
 
-Once you've received an evaluation from a Trainer, you'll see your evaluations in the "Level Up" tab. If you're evaluation is low, you can ask the Trainer what you can do to improve it.
+Once you've received an evaluation from a Trainer, you'll see your evaluations in the "Level Up" tab. If an evaluation is low, you can ask the Trainer that gave it to you what you can do to improve it.
