@@ -39,8 +39,8 @@
 * [Filters and Sorts](advanced-features/filters-and-sorts.md)
 * [Data Visualizations](advanced-features/data-visualizations.md)
 
-## Other Tools
+## Future Tools
 
-* [Known Identifiers](other-tools/known-identifiers.md)
-* [Aura Graph Explorer](other-tools/explorer-view.md)
-* [Activity Alerts](other-tools/research-tools.md)
+* [Known Identifiers](future-tools/known-identifiers.md)
+* [Aura Graph Explorer](future-tools/explorer-view.md)
+* [Activity Alerts](future-tools/research-tools.md)
