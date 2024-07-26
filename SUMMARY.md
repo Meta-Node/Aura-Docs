@@ -12,7 +12,8 @@
 ## How to Play
 
 * [🏡 Home screen](how-to-play/home-screen.md)
-* [🫧 Connections](how-to-play/connections.md)
+* [🙍 Subject Profile](how-to-play/connections.md)
+* [⬆️ Level Up](how-to-play/level-up.md)
 * [Honesty](how-to-play/honesty.md)
 * [Verification levels](how-to-play/verification-levels.md)
 * [Energy](how-to-play/energy.md)
