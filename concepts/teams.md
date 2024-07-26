@@ -6,7 +6,7 @@ Having multiple teams provides resilience to Aura.  If one team becomes flawed, 
 
 A team of sybil defenders can create a team after paying a fee to prevent spam, and selecting at least one captain.
 
-Team captains select themselves. It takes a two-thirds majority vote to add or remove a team captain.  Team captains then pass on energy to other Aura players by [allocating it](../how-to-play/energy.md#how-to-allocate-energy) to them in Aura.
+Team captains select themselves. It takes a two-thirds majority vote to add or remove a team captain.  Team captains then pass on energy to other Aura players by [allocating it](broken-reference) to them in Aura.
 
 ### Energy flavors
 
@@ -16,7 +16,7 @@ Each new player starts with one energy slot allowing them to accept one energy f
 
 ### Team competition
 
-Apps choose [verification levels](../how-to-play/verification-levels.md) appropriate for their need. Verification levels in turn include one or more energy flavors in their analysis. Any person or app is free to create their own verification levels with any mix of energy flavors and score thresholds.
+Apps choose [verification levels](broken-reference) appropriate for their need. Verification levels in turn include one or more energy flavors in their analysis. Any person or app is free to create their own verification levels with any mix of energy flavors and score thresholds.
 
 Teams (and their flavors) therefore compete with each other for usage by players and apps.\
 \
@@ -28,6 +28,6 @@ Each team has a reward address to which anyone can send tokens to be distributed
 
 App creators can sponsor the best players by adding rewards to a high quality team that factors into the verification levels they use.
 
-{% content-ref url="../how-to-play/energy.md" %}
-[energy.md](../how-to-play/energy.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}

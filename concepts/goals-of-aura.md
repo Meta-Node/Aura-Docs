@@ -10,11 +10,11 @@ Aura relies on verification by people that already know you. This is in contrast
 
 Aura hosts the best motivated, best equipped, and most capable [sybil defenders](https://en.wikipedia.org/wiki/Sybil\_attack). Sybil defense moves from casual BrightID users to elite Aura players. Sybil attackers are forced to target highly skilled Aura players rather than BrightID users.
 
-Aura players have “skin in the game."  Mistakes cost them [energy](../how-to-play/energy.md), which is the potential to verify people.
+Aura players have “skin in the game."  Mistakes cost them [energy](broken-reference), which is the potential to verify people.
 
 ### Decentralized
 
-Aura is resilient against fraud. If a [team](teams.md) becomes corrupted, other teams are waiting to take its place. The market for apps needing uniqueness verification determines which teams' answers in Aura are used as part of a [verification level](../how-to-play/verification-levels.md).
+Aura is resilient against fraud. If a [team](teams.md) becomes corrupted, other teams are waiting to take its place. The market for apps needing uniqueness verification determines which teams' answers in Aura are used as part of a [verification level](broken-reference).
 
 ### Scalable
 

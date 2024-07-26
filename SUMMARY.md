@@ -14,14 +14,33 @@
 * [🏡 Home screen](how-to-play/home-screen.md)
 * [🙍 Subject Profile](how-to-play/connections.md)
 * [⬆️ Level Up](how-to-play/level-up.md)
-* [Honesty](how-to-play/honesty.md)
-* [Verification levels](how-to-play/verification-levels.md)
-* [Energy](how-to-play/energy.md)
-* [⚗️ Research tools](how-to-play/research-tools/README.md)
-  * [Explorer view](how-to-play/research-tools/explorer-view.md)
 
-## Background
+## Evidence
 
-* [Goals of Aura](background/goals-of-aura.md)
-* [How Aura works](background/how-aura-works.md)
-* [Teams](background/teams.md)
+* [🔗 Mutual Connections](evidence/mutual-connections.md)
+* [🏋️ Activity](evidence/activity.md)
+* [🗒️ Evaluations](evidence/evaluations.md)
+
+## Advanced Roles
+
+* [👨‍🏫 Trainers](advanced-roles/trainers.md)
+* [🦸‍♀️ Managers](advanced-roles/managers.md)
+* [🔐 Using Roles](advanced-roles/using-roles.md)
+
+## Concepts
+
+* [Goals of Aura](concepts/goals-of-aura.md)
+* [How Aura works](concepts/how-aura-works.md)
+* [Teams](concepts/teams.md)
+
+## Advanced Features
+
+* [Navigation](advanced-features/navigation.md)
+* [Filters and Sorts](advanced-features/filters-and-sorts.md)
+* [Data Visualizations](advanced-features/data-visualizations.md)
+
+## Other Tools
+
+* [Known Identifiers](other-tools/known-identifiers.md)
+* [Aura Graph Explorer](other-tools/explorer-view.md)
+* [Activity Alerts](other-tools/research-tools.md)

@@ -14,9 +14,9 @@ Inquisitive users represent 1% of the user base. They use apps, but also become 
 
 ### The Aura social graph
 
-Aura players consist of inquisitive users. They assign [honesty ratings](../how-to-play/honesty.md) to those they know well. This contrasts with normal BrightID users, who in most cases only label how well they know someone and don’t try to assess their honesty.
+Aura players consist of inquisitive users. They assign [honesty ratings](broken-reference) to those they know well. This contrasts with normal BrightID users, who in most cases only label how well they know someone and don’t try to assess their honesty.
 
-Aura players send each other [energy](../how-to-play/energy.md), which represents the power to verify other BrightID users. This results in an inner graph composed of Aura players and an outer graph of the rest of BrightID users.
+Aura players send each other [energy](broken-reference), which represents the power to verify other BrightID users. This results in an inner graph composed of Aura players and an outer graph of the rest of BrightID users.
 
 ![](<../.gitbook/assets/image (18).png>)
 

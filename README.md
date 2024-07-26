@@ -19,7 +19,7 @@ layout:
 
 # 🌀 What is Aura?
 
-[Aura](https://aura.brightid.org) is a decentralized platform where experts evaluate each other in a domain and in turn evaluate subjects. The are many possible subject domains including: code audits, insurance claims, and unique anonymous humans.\
+Aura is a decentralized platform where experts evaluate each other in a domain and in turn evaluate subjects. The are many possible subject domains including: code audits, insurance claims, and unique anonymous humans.\
 \
 In the BrightID domain, experts evaluate whether a BrightID account is a person's only account or a duplicate. This can result in a positive Aura verification level for the person in BrightID, which in turn can unlock their ability to link to apps that want an assurance that users only have one account.
 
