@@ -44,3 +44,7 @@
 * [Known Identifiers](future-tools/known-identifiers.md)
 * [Aura Graph Explorer](future-tools/explorer-view.md)
 * [Activity Alerts](future-tools/research-tools.md)
+
+## Contributing
+
+* [Docs](contributing/docs.md)
