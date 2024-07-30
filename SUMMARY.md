@@ -18,7 +18,6 @@
 ## Evidence
 
 * [🔗 Mutual Connections](evidence/mutual-connections.md)
-* [🏋️ Activity](evidence/activity.md)
 * [🗒️ Evaluations](evidence/evaluations.md)
 
 ## Advanced Roles
@@ -26,6 +25,7 @@
 * [👨‍🏫 Trainers](advanced-roles/trainers.md)
 * [🦸‍♀️ Managers](advanced-roles/managers.md)
 * [🔐 Using Roles](advanced-roles/using-roles.md)
+* [🏋️ Activity](advanced-roles/activity.md)
 
 ## Concepts
 
