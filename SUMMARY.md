@@ -37,7 +37,7 @@
 
 ## Resources
 
-* [🔗 Links & More Info](resources/links-and-more-info.md)
+* [🔗 Links](resources/links.md)
 
 ## Future Tools
 
