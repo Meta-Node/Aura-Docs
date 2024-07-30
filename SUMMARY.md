@@ -3,6 +3,7 @@
 ## Intro
 
 * [🌀 What is Aura?](README.md)
+* [✨ Features](intro/how-aura-works.md)
 
 ## Getting Started
 
@@ -23,21 +24,20 @@
 ## Advanced Roles
 
 * [👨‍🏫 Trainers](advanced-roles/trainers.md)
-* [🦸‍♀️ Managers](advanced-roles/managers.md)
+* [👩‍⚖️ Managers](advanced-roles/managers.md)
 * [🔐 Using Roles](advanced-roles/using-roles.md)
 * [🏋️ Activity](advanced-roles/activity.md)
-
-## Concepts
-
-* [Goals of Aura](concepts/goals-of-aura.md)
-* [How Aura works](concepts/how-aura-works.md)
-* [Teams](concepts/teams.md)
+* [👥 Teams & Leagues](advanced-roles/teams.md)
 
 ## Advanced Features
 
 * [Navigation](advanced-features/navigation.md)
 * [Filters and Sorts](advanced-features/filters-and-sorts.md)
-* [Data Visualizations](advanced-features/data-visualizations.md)
+* [Data Visualization](advanced-features/data-visualization.md)
+
+## Resources
+
+* [🔗 Links & More Info](resources/links-and-more-info.md)
 
 ## Future Tools
 
@@ -47,4 +47,4 @@
 
 ## Contributing
 
-* [Docs](contributing/docs.md)
+* [📖 Docs](contributing/docs.md)

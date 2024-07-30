@@ -1,6 +1,6 @@
 # 🗝️ Aura login
 
-### If you're on a computer
+## If you're on a computer
 
 1. Open BrightID on your mobile device
 2. Choose "Scan a code" from the home screen
@@ -11,13 +11,13 @@
 
 <figure><img src="../.gitbook/assets/BrightID-Aura-Code.png" alt=""><figcaption></figcaption></figure>
 
-### If you're on your mobile device
+## If you're on your mobile device
 
 * Click the link on the Aura login screen
 
 <figure><img src="../.gitbook/assets/Clink-Aura-BrightID-link.png" alt=""><figcaption></figcaption></figure>
 
-### Add Aura as a super app to BrightID devices
+## Add Aura as a super app BrightID device
 
 You will see these screens on the BrightID app after you scan or click the code.
 
