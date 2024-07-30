@@ -27,7 +27,7 @@ In the BrightID domain, experts evaluate whether a BrightID account is a person'
 
 Although anyone is welcome to play Aura to help verify other people, this isn't required to get an Aura verification level. Most people wanting an Aura verification level should simply install the [BrightID mobile app](getting-started/get-brightid.md) and follow the instructions.
 
-If you would like to learn more about how Aura works, meet other Aura players, and discuss best practices, [join the Aura discord](https://discord.gg/y24xeXq7mj).
+If you would like to learn more about how Aura works, meet other Aura players and discuss best practices, [join the Aura discord](https://discord.gg/y24xeXq7mj).
 
 {% content-ref url="broken-reference" %}
 [Broken link](broken-reference)

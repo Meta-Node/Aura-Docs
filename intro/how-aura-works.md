@@ -32,7 +32,7 @@ Managers can add new managers in a decentralized way using a [transitive trust c
 
 ## Rewards
 
-Scores resulting from participants evaluating each other provide a convenient scale for monetary rewards to be distributed to participants within a team.
+Scores resulting from participants evaluating each other provide a convenient scale for monetary rewards to be distributed to participants within a [team](../advanced-roles/teams.md).
 
 [Leagues](../advanced-roles/teams.md#leagues) are responsible for marketing [expert evaluations](how-aura-works.md#expert-evaluations) to apps that need them and distributing the money collected to teams in proportion to the value they bring.
 
