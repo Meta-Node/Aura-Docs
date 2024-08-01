@@ -31,9 +31,9 @@
 
 ## Advanced Features
 
-* [Navigation](advanced-features/navigation.md)
-* [Filters and Sorts](advanced-features/filters-and-sorts.md)
-* [Data Visualization](advanced-features/data-visualization.md)
+* [🛳️ Navigation](advanced-features/navigation.md)
+* [🔽 Filters and Sorts](advanced-features/filters-and-sorts.md)
+* [📊 Data Visualization](advanced-features/data-visualization.md)
 
 ## Resources
 
@@ -43,7 +43,7 @@
 
 * [💡 Known Identifiers](future-tools/known-identifiers.md)
 * [🫧 Aura Graph Explorer](future-tools/explorer-view.md)
-* [Activity Alerts](future-tools/research-tools.md)
+* [⚠️ Activity Alerts](future-tools/research-tools.md)
 
 ## Contributing
 
