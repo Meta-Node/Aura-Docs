@@ -4,7 +4,7 @@
 
 ### Viewing a specific person
 
-On a person's profile, click "View on Explorer" to view how Aura players have evaluated BrightID users.&#x20;
+On a subject's profile, click "View on Explorer" to view how Aura players have evaluated them.&#x20;
 
 ![](../.gitbook/assets/explorer-and-key.png)
 
