@@ -6,9 +6,9 @@ The goal of Aura is to provide expert evaluations to other apps. In the BrightID
 
 ## Privacy
 
-BrightID activity is a primary source of verification information in the BrightID Domain of Aura. Aura inherits the same privacy rule as BrightID: no information should be shared with anyone that doesn't already know it.
+BrightID activity is a primary source of verification information in Aura. Aura inherits the same privacy rule as BrightID: no information should be shared with anyone that doesn't already know it.
 
-Aura relies on verification by people that already know the person being verified. This is in contrast to privacy-invading verification methods which require providing personal information to agents of governments, corporations, or apps.
+Aura relies on verification by people that already know the person being verified. This is in contrast to privacy-invading verification methods which require providing personal information to someone who doesn't already know it.
 
 ## Sybil battleground <a href="#sybil-battleground" id="sybil-battleground"></a>
 
