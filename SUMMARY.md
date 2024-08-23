@@ -32,7 +32,7 @@
 ## Advanced Features
 
 * [🛳️ Navigation](advanced-features/navigation.md)
-* [🔽 Filters and Sorts](advanced-features/filters-and-sorts.md)
+* [🔽 Filters](advanced-features/filters.md)
 * [📊 Data Visualization](advanced-features/data-visualization.md)
 
 ## Future Tools
