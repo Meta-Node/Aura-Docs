@@ -1,6 +1,10 @@
 # 🫧 Aura Graph Explorer
 
-:link: Aura Explorer: [https://explorer.brightid.org/?aura=aura](https://explorer.brightid.org/?aura=aura)
+:link: Old Aura Explorer: [https://explorer.brightid.org/?aura=aura](https://explorer.brightid.org/?aura=aura)
+
+### New Explorer
+
+The new graph explorer (as yet unreleased) is tailored to Aura's use of roles. It will show the role relationships between participants and the impacts of evaluations.
 
 ### Viewing a specific person
 
