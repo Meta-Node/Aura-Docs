@@ -6,21 +6,21 @@ Having multiple teams provides resilience to Aura.  If one team becomes flawed, 
 
 ### Creation and management
 
-[Sybil defenders](https://en.wikipedia.org/wiki/Sybil\_attack) can create a team after paying a fee and selecting at least one captain.
+[Sybil defenders](https://en.wikipedia.org/wiki/Sybil\_attack) can create a team after paying a fee and selecting at least one owner.
 
-Team captains can add or remove other team captains with a 2/3 majority vote.
+Team owners can add or remove other owners with a 2/3 majority vote.
 
 ### Scores & Levels
 
 Each team generates scores for its participants independently from other teams. Scores come from participants evaluating each other.
 
-Captains can define team levels for Subjects, Players, Trainers, and Managers based on scores and other requirements such as receiving evaluations of a certain confidence or from participants with a certain level.
+Team owners can define team levels for Subjects, Players, Trainers, and Managers based on scores and other requirements such as receiving evaluations of a certain confidence or from participants with a certain level.
 
 Team scores and levels are used by leagues in aggregate scores and levels.
 
 ### Managers
 
-Team captains become the first managers and can begin evaluating each other and other managers and trainers.&#x20;
+Team owners become the first managers and can begin evaluating each other and other managers and trainers.&#x20;
 
 ### Team Membership
 
