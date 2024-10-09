@@ -19,7 +19,7 @@ layout:
 
 # 🌀 What is Aura?
 
-Aura is a decentralized platform where experts evaluate each other in a domain and in turn evaluate subjects. The are many possible subject domains including: code audits, insurance claims, regulation compliance, and unique anonymous humans.\
+Aura is a decentralized platform where experts evaluate each other in a domain and in turn evaluate subjects. The are many possible subject domains including: code audits, insurance claims, regulation compliance, credentialing and unique anonymous humans.\
 \
 Aura allows more people to participate on the administrative side with access to deeper knowledge and relationships than similar systems used by governments or corporations to evaluate claims and make objective rulings.\
 \
