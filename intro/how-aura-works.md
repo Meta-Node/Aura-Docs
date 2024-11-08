@@ -22,7 +22,7 @@ Aura participants have skin in the game. Performing poorly in a role or particip
 
 The ability of evaluators to react quickly to lower the score of an attacker or someone making critical mistakes is a key feature of Aura. A large sybil attack can be stopped quickly with a single evaluation change.
 
-Multiple [coexisting teams](how-aura-works.md#decentralization) adds resilience as does the ability to fork and spin up new [leagues](../advanced-roles/teams.md#leagues).
+[Coexisting teams](how-aura-works.md#decentralization) add resilience as does the ability to fork and spin up new [leagues](../advanced-roles/teams.md#leagues).
 
 ## Decentralization
 
