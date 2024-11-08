@@ -8,7 +8,7 @@ You unlock the ability to be evaluated by Trainers once you've made your third e
 
 ## Finding Trainers
 
-<figure><img src="../.gitbook/assets/level-up.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2024-11-07 at 10.42.02 PM.png" alt=""><figcaption></figcaption></figure>
 
 The Level Up tab will show which of your BrightID connections are Trainers. It will also show which of your connections are Players, so that you can find Trainers through them.
 
@@ -16,4 +16,6 @@ You should contact Trainers and ask them to review your evaluations.&#x20;
 
 ## Viewing your Evaluations
 
-Once you've received an evaluation from a Trainer, you'll see it in the "Level Up" tab. If an evaluation is low, you can ask the Trainer that gave it to you what you can do to improve it.
+Once you've received an evaluation from a Trainer, you'll see it in the "Level Up" tab If an evaluation is low, you can ask the Trainer that gave it to you what you can do to improve it.
+
+<figure><img src="../.gitbook/assets/Screenshot 2024-11-07 at 10.44.01 PM (1).png" alt=""><figcaption></figcaption></figure>

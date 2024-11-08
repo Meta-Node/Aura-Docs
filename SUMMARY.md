@@ -18,7 +18,7 @@
 
 ## Evidence
 
-* [🔗 Mutual Connections](evidence/mutual-connections.md)
+* [🔗 Expected Connections](evidence/expected-connections.md)
 * [🗒️ Evaluations](evidence/evaluations.md)
 
 ## Advanced Roles

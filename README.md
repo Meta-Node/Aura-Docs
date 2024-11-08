@@ -19,11 +19,11 @@ layout:
 
 # 🌀 What is Aura?
 
-Aura is a decentralized platform where experts evaluate each other and in turn evaluate subjects in domains such as code audits, insurance claims, regulatory compliance, grant reviews, open source impact, credentialing, community membership and unique anonymous humans. Aura evaluations produce digital attestations that infuse reality into online activities and apps.
+Aura is a decentralized platform where experts evaluate each other and in turn evaluate subjects in domains such as code audits, insurance claims, regulatory compliance, grant reviews, open source impact, credentialing, community membership and unique anonymous humans. Aura evaluations produce digital attestations that infuse reality into online activities.
 
-Aura decentralizes administration by inviting those close to the source of truth to evaluate claims and make objective rulings. It uses existing trust relationships for oversight.\
+Aura decentralizes administration by inviting those closest to the source of truth to evaluate claims and make objective rulings. It uses existing trust relationships for oversight.\
 \
-In the BrightID domain, experts evaluate whether a BrightID account is a person's only account or a duplicate. This can result in a positive Aura verification level for the person in BrightID, which in turn can unlock their ability to link to apps that want an assurance that users only have one account.
+In the BrightID domain, experts evaluate whether a BrightID account is a person's only account or a duplicate. This can result in a positive Aura verification level for the person in BrightID, which in turn can unlock their ability to link to apps that want an assurance that they only have one account.
 
 [The BrightID mobile app](getting-started/get-brightid.md) is used to create a universal, socially recoverable identifier for each person to which Aura players can refer. No personal information is shared to Aura players that they don't already know about a subject.
 

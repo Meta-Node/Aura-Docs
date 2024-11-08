@@ -4,7 +4,7 @@
 
 The first step to unlock a role is to click the gear icon on the home screen.
 
-<figure><img src="../.gitbook/assets/home-screen-top-only.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/home-very-top.png" alt=""><figcaption></figcaption></figure>
 
 Click on "Role Management" to open the following screen
 
