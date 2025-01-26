@@ -4,7 +4,7 @@
 
 {% embed url="https://explorer.brightid.org/?aura=aura" %}
 
-### New Explorer
+### New explorer
 
 The new graph explorer (as yet unreleased) is tailored to Aura's use of roles. It will show the role relationships between participants and the impacts of evaluations.
 
