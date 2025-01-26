@@ -4,6 +4,10 @@ Filters help you focus on the type of evidence you're interested in and organize
 
 ## Home Screen
 
+{% content-ref url="../how-to-play/home-screen.md" %}
+[home-screen.md](../how-to-play/home-screen.md)
+{% endcontent-ref %}
+
 The filters on the home screen are designed to help you find someone to evaluate or to update an existing evaluation.
 
 ### Recent connections (default)
@@ -60,20 +64,23 @@ Negative evaluations only, sorted by highest evaluator level and score first.
 
 Filter by evaluator level, sort by most recent first.
 
+## Activity Tab
+
+The Activity tab has views to show a participant's activity in the player, trainer or manager roles.
+
+{% content-ref url="../evidence/activity.md" %}
+[activity.md](../evidence/activity.md)
+{% endcontent-ref %}
+
+* Recent evaluations
+* Negative evaluations
+* Confidence - Sort by the most confident evaluations first
+
 ## Custom View
 
 On each result page, you can set your own custom sort and filters by selecting "Custom view."
 
 ![](<../.gitbook/assets/Screenshot 2025-01-25 at 11.57.50 PM.png>)
 
-## Activity Tab
 
-{% content-ref url="../evidence/activity.md" %}
-[activity.md](../evidence/activity.md)
-{% endcontent-ref %}
 
-The Activity tab has views to show a person's activity in the player, trainer or manager roles.
-
-* Recent evaluations
-* Negative evaluations
-* Confidence - Sort by most confident evaluations first

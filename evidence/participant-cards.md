@@ -8,11 +8,11 @@ Connections and evaluations in Aura are represented by cards showing evidence of
 
 The right side of the card shows how an evaluator evaluated a subject. In this case, Philip evaluated Ali positively and had medium confidence in his own evaluation. This evaluation contributed 67% towards Ali's score and level as a subject.
 
-<figure><img src="../.gitbook/assets/trust-card.png" alt=""><figcaption><p>The left side of a card tells us about the evaluator</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/trust-card.png" alt=""><figcaption><p>The left side of a card tells about the evaluator</p></figcaption></figure>
 
 The left side of a card helps you know if the evaluator has a good reputation. If so, you can use their evaluation as evidence. If not, you should ignore it.
 
-This card shows us that Philip is a player 👤 with a level of 3 and a score of 91.2M. [The impact bar chart](impact-bar-chart.md) below this shows the five most impactful evaluations of Philip as a player. The purple bar is your evaluation of Philip as a player.\
+This card shows that Philip is a player 👤 with a level of 3 and a score of 91.2M. [The impact bar chart](impact-bar-chart.md) below this shows the five most impactful evaluations of Philip as a player. The purple bar is your evaluation of Philip as a player.\
 \
 The lower left section is your interaction with Philip. You gave Philip a positive (+) player evaluation with high confidence (4). Your evaluation had a 5% impact. Philip connected to you with "Recovery" 🔒.
 

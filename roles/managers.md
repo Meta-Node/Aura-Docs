@@ -6,6 +6,10 @@ A Manager uses evidence by looking at a Trainer's [activity](../evidence/activit
 \
 Managers can also evaluate other Managers in the same way they evaluate Trainers. [Team owners](teams.md) are the first Managers for a [team](teams.md).
 
+{% content-ref url="teams.md" %}
+[teams.md](teams.md)
+{% endcontent-ref %}
+
 ## Manager Scores
 
 When [Managers](managers.md) in a [team](teams.md) evaluate each other, scores in the Manager role are generated using a [SybilRank algorithm](https://www.usenix.org/system/files/conference/nsdi12/nsdi12-final42_2.pdf) adapted for a directed graph with weighted edges.&#x20;
