@@ -19,7 +19,7 @@
 ## Evidence
 
 * [🔗 Expected Connections](evidence/expected-connections.md)
-* [🗒️ Evaluations](evidence/evaluations.md)
+* [☑️ Evaluations](evidence/evaluations.md)
 
 ## Advanced Roles
 
