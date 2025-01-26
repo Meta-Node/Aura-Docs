@@ -37,3 +37,6 @@ Now Aura can see all of your BrightID names and photos and allow you to make spe
 
 You will now be logged in to Aura, and the screen on the Aura app will change to the [Home screen](../how-to-play/home-screen.md).&#x20;
 
+{% content-ref url="../how-to-play/home-screen.md" %}
+[home-screen.md](../how-to-play/home-screen.md)
+{% endcontent-ref %}

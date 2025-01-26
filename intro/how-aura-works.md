@@ -24,6 +24,10 @@ The ability of evaluators to react quickly to lower the score of an attacker or 
 
 [Coexisting teams](../roles/teams.md) add resilience as does the ability to fork and spin up new [leagues](../roles/teams.md#leagues).
 
+{% content-ref url="../roles/teams.md" %}
+[teams.md](../roles/teams.md)
+{% endcontent-ref %}
+
 ## Decentralization
 
 Aura offers redundancy against serious attacks through the existence of multiple [teams](../roles/teams.md). Aura players belong to multiple teams--even if they're not aware of it. If a team becomes compromised, a [league](../roles/teams.md#leagues) will exclude it and Aura will continue to operate using the other teams.

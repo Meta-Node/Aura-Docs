@@ -20,13 +20,14 @@
 
 * [🔗 Expected Connections](evidence/expected-connections.md)
 * [☑️ Evaluations](evidence/evaluations.md)
-* [🔽 Filters](advanced-features/filters.md)
-* [📊 Data Visualization](evidence/data-visualization.md)
+* [🪪 Participant Cards](evidence/participant-cards.md)
+* [📊 Impact Bar Chart](evidence/impact-bar-chart.md)
 
 ## Advanced Features
 
+* [🔽 Filters](advanced-features/filters.md)
 * [🧭 Navigation](advanced-features/navigation.md)
-* [🏋️ Activity](advanced-features/activity.md)
+* [🏋️ Activity](advanced-roles/activity.md)
 
 ## Roles
 

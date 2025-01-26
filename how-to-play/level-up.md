@@ -14,6 +14,10 @@ The Level Up tab will show which of your BrightID connections are Trainers. It w
 
 You should contact Trainers and ask them to review your evaluations.&#x20;
 
+{% content-ref url="../roles/trainers.md" %}
+[trainers.md](../roles/trainers.md)
+{% endcontent-ref %}
+
 ## Viewing your Evaluations
 
 Once you've received an evaluation from a Trainer, you'll see it in the "Level Up" tab If an evaluation is low, you can ask the Trainer that gave it to you what you can do to improve it.

@@ -8,9 +8,11 @@ From the subject profile screen, you can evaluate one of your BrightID connectio
 
 Choose a confidence level from "Low" to "Very High."  Be careful not to overstate your confidence--[Aura Trainers](../roles/trainers.md) will review your evaluations for accuracy.
 
-Every subject profile has an ["Evidence"](broken-reference) section which you should use to help you make your evaluation.
+Every subject profile has an ["Evidence"](broken-reference) section which you should use to help you make your evaluation.&#x20;
 
-<figure><img src="../.gitbook/assets/Screenshot 2025-01-25 at 6.31.10 PM.png" alt=""><figcaption></figcaption></figure>
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
+{% endcontent-ref %}
 
 Once you submit three evaluations, you unlock the ability to level up by having [Trainers](../roles/trainers.md) review your work.
 
