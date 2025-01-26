@@ -32,7 +32,7 @@ In the [impact bar chart](impact-bar-chart.md), you can see the eight most impac
 
 ## Participant Details
 
-By clicking on the left side of a card, you can see even more detail about a person in any of their [Aura roles](../roles/using-roles.md) and a larger version of the [impact bar chart](impact-bar-chart.md). From the participant details modal, you can also switch to that person's profile or update your evaluation of them.
+By clicking on the left side of a card, you can see even more detail about a person in any of their [Aura roles](../roles/using-roles.md) and a larger version of the [impact bar chart](impact-bar-chart.md). From the participant details modal, you can also [switch to that person's profile](../advanced-features/navigation.md#breadcrumbs) or update your evaluation of them.
 
 
 
