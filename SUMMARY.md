@@ -20,13 +20,13 @@
 
 * [🔗 Expected Connections](evidence/expected-connections.md)
 * [☑️ Evaluations](evidence/evaluations.md)
-* [🏋️ Activity](advanced-roles/activity.md)
 * [🔽 Filters](advanced-features/filters.md)
+* [📊 Data Visualization](evidence/data-visualization.md)
 
 ## Advanced Features
 
 * [🧭 Navigation](advanced-features/navigation.md)
-* [📊 Data Visualization](advanced-features/data-visualization.md)
+* [🏋️ Activity](advanced-features/activity.md)
 
 ## Roles
 
