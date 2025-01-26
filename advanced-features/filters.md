@@ -65,3 +65,15 @@ Filter by evaluator level, sort by most recent first.
 On each result page, you can set your own custom sort and filters by selecting "Custom view."
 
 ![](<../.gitbook/assets/Screenshot 2025-01-25 at 11.57.50 PM.png>)
+
+## Activity Tab
+
+{% content-ref url="../evidence/activity.md" %}
+[activity.md](../evidence/activity.md)
+{% endcontent-ref %}
+
+The Activity tab has views to show a person's activity in the player, trainer or manager roles.
+
+* Recent evaluations
+* Negative evaluations
+* Confidence - Sort by most confident evaluations first

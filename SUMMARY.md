@@ -22,12 +22,12 @@
 * [☑️ Evaluations](evidence/evaluations.md)
 * [🪪 Participant Cards](evidence/participant-cards.md)
 * [📊 Impact Bar Chart](evidence/impact-bar-chart.md)
+* [🏋️ Activity](evidence/activity.md)
 
 ## Advanced Features
 
 * [🔽 Filters](advanced-features/filters.md)
 * [🧭 Navigation](advanced-features/navigation.md)
-* [🏋️ Activity](advanced-roles/activity.md)
 
 ## Roles
 

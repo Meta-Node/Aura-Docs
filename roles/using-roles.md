@@ -16,8 +16,10 @@ The top bar of the home screen will show icons for all your visible roles.
 
 <figure><img src="../.gitbook/assets/home-very-top.png" alt=""><figcaption></figcaption></figure>
 
-Clicking a role icon will switch the view to show your score, level, activity, and evaluations for that role. The "Evaluate" tab will show a list of people you can evaluate when acting in that role.\
-\
+Clicking a role icon will switch the view to show your score and level for that role. The "Evaluate" tab will show a list of people you can evaluate when acting in that role. The "Level Up" tab will show evaluations you've received and what you need to do to reach the next level in that role.
+
+<figure><img src="../.gitbook/assets/Screenshot 2025-01-26 at 1.32.42 AM.png" alt=""><figcaption></figcaption></figure>
+
 When viewing someone's profile, you can click an icon to view their activity and evaluations for any role they have (Subject, Player, Trainer, or Manager), and to evaluate them for that role (if you have the proper role unlocked).
 
 <figure><img src="../.gitbook/assets/Screenshot 2024-07-26 at 2.11.35 AM.png" alt=""><figcaption></figcaption></figure>
