@@ -42,7 +42,7 @@ This shows who the subject chose as their recovery connections. This can help un
 
 ### Recovery
 
-This shows who chose the subject as a recovery connection. This is the highest level of trust in BrightID because users must choose their recovery connections carefully to maintain access to their account.
+This shows who chose the subject as a recovery connection. This is the highest level of trust in BrightID. Users must choose their recovery connections carefully to maintain access to their account.
 
 {% embed url="https://brightid.gitbook.io/brightid/install/recover-move/social-recovery" %}
 
@@ -54,15 +54,15 @@ This shows a subject's already known and recovery connections, sorted by most re
 
 ### Expert evaluations (default)
 
-Sorts evaluations by highest evaluator level and score first.
+Evaluations sorted by highest evaluator level and score first.
 
 ### Negative evaluations
 
 Negative evaluations only, sorted by highest evaluator level and score first.
 
-### Recent evaluations, level 2+ or 1+
+### Recent evaluations, level 1+ or 2+
 
-Filter by evaluator level, sort by most recent first.
+Evaluations filtered by evaluator level, sorted by most recent first.
 
 ## Activity Tab
 
@@ -72,9 +72,9 @@ The Activity tab has views to show a participant's activity in the player, train
 [activity.md](../evidence/activity.md)
 {% endcontent-ref %}
 
-* Recent evaluations
+* Recent evaluations (default)
 * Negative evaluations
-* Confidence - Sort by the most confident evaluations first
+* Confidence - Sorted by the most confident evaluations first
 
 ## Custom View
 

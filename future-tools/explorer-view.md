@@ -1,6 +1,8 @@
 # 🫧 Aura Graph Explorer
 
-:link: Old Aura Explorer: [https://explorer.brightid.org/?aura=aura](https://explorer.brightid.org/?aura=aura)
+### [Old Aura Explorer](https://explorer.brightid.org/?aura=aura)
+
+{% embed url="https://explorer.brightid.org/?aura=aura" %}
 
 ### New Explorer
 

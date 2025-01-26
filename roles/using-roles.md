@@ -2,7 +2,7 @@
 
 ## Unlocking Roles
 
-The first step to unlock a role is to click the gear icon on the home screen.
+The first step to unlock a role is to click the gear icon at the top of the app.
 
 <figure><img src="../.gitbook/assets/home-very-top.png" alt=""><figcaption></figcaption></figure>
 

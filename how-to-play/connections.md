@@ -2,7 +2,7 @@
 
 <figure><img src="../.gitbook/assets/Screenshot 2025-01-25 at 6.26.53 PM.png" alt=""><figcaption><p>Subject profile</p></figcaption></figure>
 
-From the subject profile screen, you can check your connection level to the person, whether or not they set up social recovery, and the last time they used their BrightID. These help you decide whether the person still has control over their account or if it's a duplicate.
+From the subject profile screen, you can check your connection level to a person, whether or not they set up social recovery, and the last time they used their BrightID. These help you decide whether the person still has control over their account or if it's a duplicate.
 
 {% embed url="https://brightid.gitbook.io/brightid/install/recover-move/social-recovery" %}
 

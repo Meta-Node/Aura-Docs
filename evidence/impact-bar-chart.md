@@ -1,6 +1,6 @@
 # 📊 Impact Bar Chart
 
-The impact bar chart is featured in the following areas
+The impact bar chart is featured in the following areas.
 
 * Evidence Overview tab
 * [Level Up tab](../how-to-play/level-up.md)
