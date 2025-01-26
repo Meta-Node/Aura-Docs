@@ -2,7 +2,7 @@
 
 The "Level Up" tab of your home screen will tell you what to do to reach the next Aura Player level.&#x20;
 
-As [Aura Trainers](../advanced-roles/trainers.md) submit positive evaluations of you, your Aura Player score and level will increase. The higher your Player level, the greater your ability will be to help people get verified.&#x20;
+As [Aura Trainers](../roles/trainers.md) submit positive evaluations of you, your Aura Player score and level will increase. The higher your Player level, the greater your ability will be to help people get verified.&#x20;
 
 You unlock the ability to be evaluated by Trainers once you've made your third evaluation.
 

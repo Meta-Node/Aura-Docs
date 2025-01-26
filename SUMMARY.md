@@ -20,20 +20,20 @@
 
 * [🔗 Expected Connections](evidence/expected-connections.md)
 * [☑️ Evaluations](evidence/evaluations.md)
-* [🏋️ Activity](evidence/activity.md)
-* [🔽 Filters](evidence/filters.md)
+* [🏋️ Activity](advanced-roles/activity.md)
+* [🔽 Filters](advanced-features/filters.md)
 
 ## Advanced Features
 
 * [🧭 Navigation](advanced-features/navigation.md)
 * [📊 Data Visualization](advanced-features/data-visualization.md)
 
-## Advanced Roles
+## Roles
 
-* [👨‍🏫 Trainers](advanced-roles/trainers.md)
-* [👩‍⚖️ Managers](advanced-roles/managers.md)
-* [🔐 Using Roles](advanced-roles/using-roles.md)
-* [👥 Teams & Leagues](advanced-roles/teams.md)
+* [👨‍🏫 Trainers](roles/trainers.md)
+* [👩‍⚖️ Managers](roles/managers.md)
+* [🔐 Using Roles](roles/using-roles.md)
+* [👥 Teams & Leagues](roles/teams.md)
 
 ## Resources
 

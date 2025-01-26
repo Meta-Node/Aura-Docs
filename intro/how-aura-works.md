@@ -12,7 +12,7 @@ Aura relies on verification by people that already know the person being verifie
 
 ## Sybil battleground <a href="#sybil-battleground" id="sybil-battleground"></a>
 
-Aura hosts the best motivated, best equipped, and most capable [sybil defenders](https://en.wikipedia.org/wiki/Sybil_attack). Sybil defense moves from casual BrightID users to elite Aura [Players](broken-reference), [Trainers](../advanced-roles/trainers.md), and [Managers](../advanced-roles/managers.md). Sybil attackers are forced to target highly-skilled Aura participants rather than BrightID users.
+Aura hosts the best motivated, best equipped, and most capable [sybil defenders](https://en.wikipedia.org/wiki/Sybil_attack). Sybil defense moves from casual BrightID users to elite Aura [Players](broken-reference), [Trainers](../roles/trainers.md), and [Managers](../roles/managers.md). Sybil attackers are forced to target highly-skilled Aura participants rather than BrightID users.
 
 ## Accountability
 
@@ -22,20 +22,20 @@ Aura participants have skin in the game. Performing poorly in a role or particip
 
 The ability of evaluators to react quickly to lower the score of an attacker or someone making critical mistakes is a key feature of Aura. A large sybil attack can be stopped quickly with a single evaluation change.
 
-[Coexisting teams](../advanced-roles/teams.md) add resilience as does the ability to fork and spin up new [leagues](../advanced-roles/teams.md#leagues).
+[Coexisting teams](../roles/teams.md) add resilience as does the ability to fork and spin up new [leagues](../roles/teams.md#leagues).
 
 ## Decentralization
 
-Aura offers redundancy against serious attacks through the existence of multiple [teams](../advanced-roles/teams.md). Aura players belong to multiple teams--even if they're not aware of it. If a team becomes compromised, a [league](../advanced-roles/teams.md#leagues) will exclude it and Aura will continue to operate using the other teams.
+Aura offers redundancy against serious attacks through the existence of multiple [teams](../roles/teams.md). Aura players belong to multiple teams--even if they're not aware of it. If a team becomes compromised, a [league](../roles/teams.md#leagues) will exclude it and Aura will continue to operate using the other teams.
 
-Managers can add new managers in a decentralized way using a [transitive trust calculation](../advanced-roles/managers.md#manager-scores). Anyone can start participating in Aura and seek evaluations from existing participants.
+Managers can add new managers in a decentralized way using a [transitive trust calculation](../roles/managers.md#manager-scores). Anyone can start participating in Aura and seek evaluations from existing participants.
 
 ## Rewards
 
-Scores resulting from participants evaluating each other provide a convenient scale for monetary rewards to be distributed to participants within a [team](../advanced-roles/teams.md).
+Scores resulting from participants evaluating each other provide a convenient scale for monetary rewards to be distributed to participants within a [team](../roles/teams.md).
 
-[Leagues](../advanced-roles/teams.md#leagues) are responsible for marketing [expert evaluations](how-aura-works.md#expert-evaluations) to apps that need them and distributing the money collected to teams in proportion to the value they bring.
+[Leagues](../roles/teams.md#leagues) are responsible for marketing [expert evaluations](how-aura-works.md#expert-evaluations) to apps that need them and distributing the money collected to teams in proportion to the value they bring.
 
 ### Scaling to new Regions
 
-In the BrightID domain, apps seeking to expand into regions can pay [leagues](../advanced-roles/teams.md#leagues) to cover those regions. The need for verification in a region drives well-connected users to learn to become Aura players.&#x20;
+In the BrightID domain, apps seeking to expand into regions can pay [leagues](../roles/teams.md#leagues) to cover those regions. The need for verification in a region drives well-connected users to learn to become Aura players.&#x20;
