@@ -2,10 +2,10 @@
 
 The impact bar chart is featured in the following areas.
 
-* Evidence Overview tab
-* [Level Up tab](../how-to-play/level-up.md)
-* [Participant Details modal](participant-cards.md#participant-details)
-* [Cards](participant-cards.md) (in a miniature format)
+* Evidence overview tab
+* [Level up tab](../how-to-play/level-up.md)
+* [Participant details modal](participant-cards.md#participant-details)
+* [Participant cards](participant-cards.md) (in a miniature format)
 
 ## Explanation
 

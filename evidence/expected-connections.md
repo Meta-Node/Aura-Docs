@@ -12,7 +12,7 @@ Your connection level ("Already Known" 😎, for example) to a person is shown o
 
 If expected “Already Known” 😎 connections are missing, this could be a sign of a [sybil attack](https://en.wikipedia.org/wiki/Sybil_attack), and you should give the subject a low confidence or negative evaluation.
 
-[Connection cards are described in more detail the "Participant Cards" section.](participant-cards.md#connection-cards)
+[Connection cards](participant-cards.md#connection-cards) are described in more detail the "Participant Cards" section.
 
 {% content-ref url="participant-cards.md" %}
 [participant-cards.md](participant-cards.md)
