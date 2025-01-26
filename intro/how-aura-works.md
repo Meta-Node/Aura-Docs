@@ -12,7 +12,7 @@ Aura relies on verification by people that already know the person being verifie
 
 ## Sybil battleground <a href="#sybil-battleground" id="sybil-battleground"></a>
 
-Aura hosts the best motivated, best equipped, and most capable [sybil defenders](https://en.wikipedia.org/wiki/Sybil\_attack). Sybil defense moves from casual BrightID users to elite Aura [Players](broken-reference), [Trainers](../advanced-roles/trainers.md), and [Managers](../advanced-roles/managers.md). Sybil attackers are forced to target highly-skilled Aura participants rather than BrightID users.
+Aura hosts the best motivated, best equipped, and most capable [sybil defenders](https://en.wikipedia.org/wiki/Sybil_attack). Sybil defense moves from casual BrightID users to elite Aura [Players](broken-reference), [Trainers](../advanced-roles/trainers.md), and [Managers](../advanced-roles/managers.md). Sybil attackers are forced to target highly-skilled Aura participants rather than BrightID users.
 
 ## Accountability
 
@@ -22,7 +22,7 @@ Aura participants have skin in the game. Performing poorly in a role or particip
 
 The ability of evaluators to react quickly to lower the score of an attacker or someone making critical mistakes is a key feature of Aura. A large sybil attack can be stopped quickly with a single evaluation change.
 
-[Coexisting teams](how-aura-works.md#decentralization) add resilience as does the ability to fork and spin up new [leagues](../advanced-roles/teams.md#leagues).
+[Coexisting teams](../advanced-roles/teams.md) add resilience as does the ability to fork and spin up new [leagues](../advanced-roles/teams.md#leagues).
 
 ## Decentralization
 
