@@ -20,7 +20,7 @@ The lower left section is your interaction with Philip. You gave Philip a positi
 
 <figure><img src="../.gitbook/assets/Screenshot 2025-01-25 at 9.35.50 PM.png" alt=""><figcaption><p>An example connection card</p></figcaption></figure>
 
-The left side of a connection card is very similar to the left side of an evaluation card. You can see what you and several other Aura participants think about the trustworthiness of the person making the connection. This helps determine whether or not the connection came from a fake or duplicate account.
+The left side of a connection card is very similar to the left side of an evaluation card. You can see what you and other Aura participants think about the trustworthiness of the person making the connection. This helps determine whether or not the connection came from a fake or duplicate account.
 
 In this case, you connected to Han with "Already Known" 😎 and evaluated him positively with a low confidence, resulting in a 12% impact on his score.\
 \
@@ -32,7 +32,7 @@ In the [impact bar chart](impact-bar-chart.md), you can see the eight most impac
 
 ## Participant Details
 
-By clicking on the left side of a card, you can see even more details about a person in any of their [Aura roles](../roles/using-roles.md) and a larger version of the [impact bar chart](impact-bar-chart.md). From the participant details modal, you can also switch to that person's profile or update your evaluation of them.
+By clicking on the left side of a card, you can see even more detail about a person in any of their [Aura roles](../roles/using-roles.md) and a larger version of the [impact bar chart](impact-bar-chart.md). From the participant details modal, you can also switch to that person's profile or update your evaluation of them.
 
 
 

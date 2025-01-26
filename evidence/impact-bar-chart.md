@@ -13,7 +13,7 @@ The impact bar chart is featured in the following areas
 
 ### Impact
 
-The impact bar chart shows the relative impacts of a person's evaluators on their score. It's often accompanied by the number of positive and negative evaluations. Some evaluations might not have any impact if the evaluator is new or has a low score; no bar will be shown in this case.
+The impact bar chart shows the relative impacts of a person's evaluators on their score. It's often accompanied by the number of positive and negative evaluations they've received. Some evaluations might not have any impact if the evaluator is new or has a low score; no bar will be shown in this case.
 
 The height of a bar indicates its impact.
 
@@ -23,7 +23,7 @@ The confidence of an evaluation is represented by the shade of a bar. Darker sha
 
 ### Hover text
 
-Hovering over a bar or picture will show an evaluator's impact and the confidence of their evaluation.
+Hovering over a bar or picture will show the numerical representations of an evaluator's impact and confidence.
 
 ### Color
 
