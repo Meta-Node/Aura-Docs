@@ -78,7 +78,7 @@ The Activity tab has views to show a participant's activity in the player, train
 
 ## Custom View
 
-On each result page, you can set your own custom sort and filters by selecting "Custom view."
+On each result list, you can set your own custom sort and filters by selecting "Custom view."
 
 ![](<../.gitbook/assets/Screenshot 2025-01-25 at 11.57.50 PM.png>)
 

@@ -2,6 +2,8 @@
 
 ## [Go to the Aura app](https://aura.brightid.org) <a href="#https-aura.brightid.org" id="https-aura.brightid.org"></a>
 
+{% embed url="https://aura.brightid.org" %}
+
 ### If you're on a computer
 
 1. Open BrightID on your mobile device

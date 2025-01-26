@@ -10,7 +10,7 @@ If you select a role, you'll see a new tab in the "Evidence" section called "Act
 
 Players evaluate Subjects, Trainers evaluate Players, and Managers evaluate both Trainers and other Managers.
 
-If you have an [advanced role](broken-reference), a person's activity is your main source of evidence along with [evaluations](evaluations.md) they've received from others.
+If you have an [advanced role](broken-reference), a participant's activity is your main source of evidence along with [evaluations](evaluations.md) they've received from others.
 
 {% content-ref url="../roles/using-roles.md" %}
 [using-roles.md](../roles/using-roles.md)

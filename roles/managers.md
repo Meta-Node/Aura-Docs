@@ -12,4 +12,4 @@ Managers can also evaluate other Managers in the same way they evaluate Trainers
 
 ## Manager Scores
 
-When [Managers](managers.md) in a [team](teams.md) evaluate each other, scores in the Manager role are generated using a [SybilRank algorithm](https://www.usenix.org/system/files/conference/nsdi12/nsdi12-final42_2.pdf) adapted for a directed graph with weighted edges.&#x20;
+When Managers in a [team](teams.md) evaluate each other, scores in the Manager role are generated using a [SybilRank algorithm](https://www.usenix.org/system/files/conference/nsdi12/nsdi12-final42_2.pdf) adapted for a directed graph with weighted edges.&#x20;
