@@ -1,6 +1,6 @@
 # 🔗 Expected Connections
 
-Players look at the connections they have in common with the person they're evaluating and ensure that the ones they would expect to see are actually there. "Smart Sort" is the default [filter](../advanced-features/filters.md) for the Connections tab of a Subject profile. It shows people that both you and the subject already know at the top of the results list.\
+Players look at the connections they have in common with the person they're evaluating and ensure that the ones they would expect to see are actually there. "Smart Sort" is the default [filter](filters.md) for the Connections tab of a Subject profile. It shows people that both you and the subject already know at the top of the results list.\
 \
 Your connection level ("😎" for example) to a person is shown on the left side of their connection card, while the subject's connection level to that person is shown on the right side of the card.
 

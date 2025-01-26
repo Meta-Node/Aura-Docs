@@ -20,26 +20,20 @@
 
 * [🔗 Expected Connections](evidence/expected-connections.md)
 * [☑️ Evaluations](evidence/evaluations.md)
+* [🏋️ Activity](evidence/activity.md)
+* [🔽 Filters](evidence/filters.md)
+
+## Advanced Features
+
+* [🧭 Navigation](advanced-features/navigation.md)
+* [📊 Data Visualization](advanced-features/data-visualization.md)
 
 ## Advanced Roles
 
 * [👨‍🏫 Trainers](advanced-roles/trainers.md)
 * [👩‍⚖️ Managers](advanced-roles/managers.md)
 * [🔐 Using Roles](advanced-roles/using-roles.md)
-* [🏋️ Activity](advanced-roles/activity.md)
 * [👥 Teams & Leagues](advanced-roles/teams.md)
-
-## Advanced Features
-
-* [🛳️ Navigation](advanced-features/navigation.md)
-* [🔽 Filters](advanced-features/filters.md)
-* [📊 Data Visualization](advanced-features/data-visualization.md)
-
-## Future Tools
-
-* [💡 Known Identifiers](future-tools/known-identifiers.md)
-* [🫧 Aura Graph Explorer](future-tools/explorer-view.md)
-* [⚠️ Activity Alerts](future-tools/research-tools.md)
 
 ## Resources
 
@@ -48,3 +42,9 @@
 ## Contributing
 
 * [📖 Docs](contributing/docs.md)
+
+## Future Tools
+
+* [💡 Known Identifiers](future-tools/known-identifiers.md)
+* [🫧 Aura Graph Explorer](future-tools/explorer-view.md)
+* [⚠️ Activity Alerts](future-tools/research-tools.md)
