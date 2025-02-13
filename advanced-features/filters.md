@@ -12,7 +12,7 @@ The filters on the home screen are designed to help you find someone to evaluate
 
 ### Recent connections (default)
 
-The best way to find someone to evaluate is to connect or reconnect to them on BrightID. This will bring them to the top of the default sort on the Aura home page. From there you can go to their [profile](../how-to-play/connections.md) and evaluate them. "Already Known" 😎 connections are shown above "Just Met" 👋 connections. Within those tiers, connections are sorted by most recent first.
+The best way to find someone to evaluate is to connect or reconnect to them on BrightID. This will bring them to the top of the default sort on the Aura home page. From there you can go to their [profile](../how-to-play/subject-profile.md) and evaluate them. "Already Known" 😎 connections are shown above "Just Met" 👋 connections. Within those tiers, connections are sorted by most recent first.
 
 ### Recently evaluated
 
@@ -81,6 +81,3 @@ The Activity tab has views to show a participant's activity in the player, train
 On each result list, you can set your own custom sort and filters by selecting "Custom view."
 
 ![](<../.gitbook/assets/Screenshot 2025-01-25 at 11.57.50 PM.png>)
-
-
-

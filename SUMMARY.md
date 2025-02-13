@@ -13,7 +13,7 @@
 ## How to Play
 
 * [🏡 Home screen](how-to-play/home-screen.md)
-* [🙍 Subject Profile](how-to-play/connections.md)
+* [🙍 Subject Profile](how-to-play/subject-profile.md)
 * [⬆️ Level Up](how-to-play/level-up.md)
 
 ## Evidence
