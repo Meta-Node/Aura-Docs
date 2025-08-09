@@ -1,25 +1,11 @@
 ---
 cover: .gitbook/assets/image (28).png
 coverY: 0
-layout:
-  cover:
-    visible: true
-    size: hero
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
 ---
 
 # 🌀 What is Aura?
 
-Aura is a decentralized platform where experts evaluate each other and in turn evaluate subjects in domains such as code audits, acts of kindness, insurance claims, regulatory compliance, grant reviews, open source impact, credentialing, community membership and unique anonymous humans. Aura evaluations produce digital attestations that infuse reality into online activities.
+Aura is a decentralized platform where experts evaluate each other and in turn evaluate subjects in domains such as code audits, acts of kindness, insurance claims, platform moderation, regulatory compliance, grant reviews, open source impact, credentialing, community membership and unique anonymous humans. Aura evaluations produce digital attestations that infuse reality into online activities.
 
 Aura decentralizes administration by inviting those closest to the source of truth to evaluate claims and make objective rulings. It uses existing trust relationships for oversight.\
 \
