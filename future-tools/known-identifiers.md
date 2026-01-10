@@ -6,6 +6,4 @@ It relies on an Aura Player knowing which identifiers (such as social accounts, 
 
 Using a [Socialist Millionaire Protocol](https://en.wikipedia.org/wiki/Socialist_millionaire_problem#Off-the-Record_Messaging_protocol), Aura Players can agree on the same BrightID account without revealing any new private information to each other.
 
-[See the BrightID forum post on known identifiers for a full description.](https://forum.brightid.org/t/fighting-small-scale-sybil-attacks-with-known-identifiers/503)
-
-{% embed url="https://forum.brightid.org/t/fighting-small-scale-sybil-attacks-with-known-identifiers/503" %}
+[See the post on known identifiers for a full description.](https://hackmd.io/@castall/BJblkURE5)
