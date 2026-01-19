@@ -22,7 +22,7 @@ Aura participants have skin in the game. Performing poorly in a role or particip
 
 The ability of evaluators to react quickly to lower the score of an attacker or someone making critical mistakes is a key feature of Aura. A large sybil attack can be stopped quickly with a single evaluation change.
 
-[Coexisting teams](../roles/teams.md) add resilience as does the ability to fork and spin up new [leagues](../roles/teams.md#leagues).
+Decentralization through [multiple teams](../roles/teams.md) also add resilience.
 
 {% content-ref url="../roles/teams.md" %}
 [teams.md](../roles/teams.md)
@@ -30,7 +30,7 @@ The ability of evaluators to react quickly to lower the score of an attacker or 
 
 ## Decentralization
 
-Aura offers redundancy against serious attacks through the existence of multiple [teams](../roles/teams.md). Aura players belong to multiple teams--even if they're not aware of it. If a team becomes compromised, a [league](../roles/teams.md#leagues) will exclude it and Aura will continue to operate using the other teams.
+Aura offers redundancy against serious attacks through the existence of multiple [teams](../roles/teams.md). Aura players belong to multiple teams. Even if they're not aware of it, they help to provide scores for any team that flows energy to them. If a team becomes compromised, apps will exclude it and Aura will continue to operate using the other teams.
 
 Managers can add new managers in a decentralized way using a [transitive trust calculation](../roles/managers.md#manager-scores). Anyone can start participating in Aura and seek evaluations from existing participants.
 
@@ -40,8 +40,6 @@ Managers can add new managers in a decentralized way using a [transitive trust c
 
 Scores resulting from participants evaluating each other provide a convenient scale for monetary rewards to be distributed to participants within a [team](../roles/teams.md).
 
-[Leagues](../roles/teams.md#leagues) are responsible for marketing [expert evaluations](how-aura-works.md#expert-evaluations) to apps that need them and distributing the money collected to teams in proportion to the value they bring.
-
 ### Scaling to new Regions
 
-In the BrightID domain, apps seeking to expand into regions can pay [leagues](../roles/teams.md#leagues) to cover those regions. The need for verification in a region drives well-connected users to learn to become Aura players.&#x20;
+In the BrightID domain, apps seeking to expand into regions can pay [teams](../roles/teams.md#leagues) to cover those regions. The need for verification in a region drives well-connected users to learn to become Aura players.&#x20;

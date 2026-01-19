@@ -1,4 +1,4 @@
-# 👥 Teams & Leagues
+# 👥 Teams
 
 ## Teams
 
@@ -6,7 +6,7 @@ Having multiple teams provides resilience to Aura.  If one team becomes flawed, 
 
 ### Creation and management
 
-[Sybil defenders](https://en.wikipedia.org/wiki/Sybil\_attack) can create a team after paying a fee and selecting at least one owner.
+[Sybil defenders](https://en.wikipedia.org/wiki/Sybil_attack) can create a team after paying a fee and selecting at least one owner.
 
 Team owners can add or remove other owners with a 2/3 majority vote.
 
@@ -16,7 +16,7 @@ Each team generates scores for its participants independently from other teams. 
 
 Team owners can define team levels for Subjects, Players, Trainers, and Managers based on scores and other requirements such as receiving evaluations of a certain confidence or from participants with a certain level.
 
-Team scores and levels are used by leagues in aggregate scores and levels.
+Team scores and levels are combined to create [aggregate scores and levels.](teams.md#aggregate-scores-and-levels)
 
 ### Managers
 
@@ -26,12 +26,11 @@ Team owners become the first managers and can begin evaluating each other and ot
 
 Managers and Trainers are responsible for deciding which Aura participants belong to which teams. A Manager or Trainer can choose to add a participant they evaluate to any of the teams they belong to themselves. They evaluate a participant only once per role, but the evaluation will contribute to a score for the participant in each of the teams they've chosen to include.
 
-Most of the time participants will only see one score which is an aggregate of several team scores  whose formula is decided by a [league](teams.md#leagues).
+## Aggregate scores and levels
 
-## Leagues
+Most of the time participants will only see one score which is an aggregate of several team scores.
 
-A league creates a formula to aggregate team scores. As teams gain or lose utility, the league adjusts the formula. It creates aggregate levels that can easily be understood and used by apps. It also creates aggregate scores and levels for participants so they don't have to check multiple team scores and levels.
-
-Leagues are responsible for [marketing Aura to apps and paying participants.](../intro/how-aura-works.md#rewards)\
+Apps should rely on a mix of team scores to compute an overall score and level for each subject. This provides resilience, allowing Aura to be useful even if one or more teams have become unreliable.\
 \
-Anyone can create a league by creating their own aggregate formulas and levels and marketing them to apps. Being able to quickly fork or spin up a new league adds to the [resilience](../intro/how-aura-works.md#resilience) of the overall Aura system.
+[This article](https://paragraph.com/@adamstallard/decentralizing-brightid-with-collective-intelligence) describes how crowd wisdom through [Updraft](https://www.updraft.fund/) can find the right mix of scores to combine from each team to provide an overall score for subjects and participants.
+

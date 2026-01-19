@@ -34,7 +34,7 @@
 * [👨‍🏫 Trainers](roles/trainers.md)
 * [👩‍⚖️ Managers](roles/managers.md)
 * [🔐 Using Roles](roles/using-roles.md)
-* [👥 Teams & Leagues](roles/teams.md)
+* [👥 Teams](roles/teams.md)
 
 ## Resources
 
