@@ -17,6 +17,6 @@ Although anyone is welcome to play Aura to help verify other people, this isn't 
 
 If you would like to learn more about how Aura works, meet other Aura players and discuss best practices, [join the Aura discord](https://discord.gg/y24xeXq7mj).
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+{% content-ref url="/broken/pages/OrNzrxdi9LLhEfa909Y6" %}
+[Broken link](/broken/pages/OrNzrxdi9LLhEfa909Y6)
 {% endcontent-ref %}

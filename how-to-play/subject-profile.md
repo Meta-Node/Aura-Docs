@@ -6,10 +6,10 @@ From the subject profile screen, you can check your connection level to a person
 
 {% embed url="https://brightid.gitbook.io/brightid/install/recover-move/social-recovery" %}
 
-Aura displays other evidence to help you make your evaluation under [the "Evidence" section](broken-reference).
+Aura displays other evidence to help you make your evaluation under [the "Evidence" section](/broken/pages/eZeZtWQnEnD7rTMmGJbM).
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+{% content-ref url="/broken/pages/eZeZtWQnEnD7rTMmGJbM" %}
+[Broken link](/broken/pages/eZeZtWQnEnD7rTMmGJbM)
 {% endcontent-ref %}
 
 When you're ready to evaluate, choose a confidence level from "Low" to "Very High."  Be careful not to overstate your confidence--[Aura Trainers](../roles/trainers.md) will review your evaluations for accuracy.

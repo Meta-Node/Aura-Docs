@@ -12,7 +12,7 @@ Aura relies on verification by people that already know the person being verifie
 
 ## Sybil battleground <a href="#sybil-battleground" id="sybil-battleground"></a>
 
-Aura hosts the best motivated, best equipped, and most capable [sybil defenders](https://en.wikipedia.org/wiki/Sybil_attack). Sybil defense moves from casual BrightID users to elite Aura [Players](broken-reference), [Trainers](../roles/trainers.md), and [Managers](../roles/managers.md). Sybil attackers are forced to target highly-skilled Aura participants rather than BrightID users.
+Aura hosts the best motivated, best equipped, and most capable [sybil defenders](https://en.wikipedia.org/wiki/Sybil_attack). Sybil defense moves from casual BrightID users to elite Aura [Players](/broken/pages/pcTnjJ1JnXpuqZUHjgtU), [Trainers](../roles/trainers.md), and [Managers](../roles/managers.md). Sybil attackers are forced to target highly-skilled Aura participants rather than BrightID users.
 
 ## Accountability
 
@@ -33,6 +33,8 @@ The ability of evaluators to react quickly to lower the score of an attacker or 
 Aura offers redundancy against serious attacks through the existence of multiple [teams](../roles/teams.md). Aura players belong to multiple teams--even if they're not aware of it. If a team becomes compromised, a [league](../roles/teams.md#leagues) will exclude it and Aura will continue to operate using the other teams.
 
 Managers can add new managers in a decentralized way using a [transitive trust calculation](../roles/managers.md#manager-scores). Anyone can start participating in Aura and seek evaluations from existing participants.
+
+<figure><img src="../.gitbook/assets/Aura-Energy-Flows.png" alt=""><figcaption></figcaption></figure>
 
 ## Rewards
 
