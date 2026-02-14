@@ -5,9 +5,7 @@ coverY: 0
 
 # 🌀 What is Aura?
 
-Aura is a decentralized way to evaluate and determine eligibility.
-
-Domains that can be evaluated:
+Aura is a decentralized way to evaluate and determine eligibility in domains such as:
 
 * Human uniqueness (one account per person)
 * Work performance or eligibility
@@ -22,6 +20,8 @@ Domains that can be evaluated:
 
 Although Aura was original created to assist in the human uniqueness (BrightID) domain, the mechanism is interoperable with these and many other domains.
 
+### Decentralization
+
 What sets Aura apart:
 
 * Participation is open to anyone
@@ -33,7 +33,7 @@ Although anyone is welcome to play Aura to create evaluations or verify other pe
 
 People who just want a verification should follow the simple instructions in Aura Verified. No personal information is shared with Aura players that they don't already know.
 
-Proofs (verifications) follow advanced standards of privacy to ensure that no one links additional information or previous activity when they share a proof with an app.
+Verification proofs follow advanced standards of privacy to ensure that no one links additional information or previous activity when they share a proof with an app.
 
 ### Learn more
 
