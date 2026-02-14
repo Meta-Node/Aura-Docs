@@ -4,6 +4,7 @@
 
 * [🌀 What is Aura?](README.md)
 * [✨ Features](intro/how-aura-works.md)
+* [🔆 BrightID domain](intro/brightid-domain.md)
 
 ## Getting Started
 

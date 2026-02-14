@@ -16,7 +16,7 @@ Aura hosts the best motivated, best equipped, and most capable [sybil defenders]
 
 ## Accountability
 
-Aura participants have skin in the game. Performing poorly in a role or participating in an attack will result in a poor or negative evaluation, which will quickly drop the score of a participant to a level where they can no longer influence decisions.
+Aura participants have skin in the game. Performing poorly in a role or participating in an attack will result in a poor or negative evaluation, which will quickly drop the score of a participant to a level where their evaluations no longer impact verifications.
 
 ## Resilience
 

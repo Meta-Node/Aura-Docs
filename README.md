@@ -5,15 +5,37 @@ coverY: 0
 
 # 🌀 What is Aura?
 
-Aura is an open, decentralized network that lets experts evaluate each other and in turn evaluate subjects, generating privacy-preserving proofs in domains such as unique humanity, community membership, residence, insurance claims, acts of kindness, platform moderation, regulatory compliance, grant reviews, open source impact, and credentialing. Aura evaluations produce digital attestations that infuse reality into online activities.
+Aura is a decentralized way to evaluate and determine eligibility.
 
-Aura decentralizes administration by inviting those closest to the source of truth to evaluate claims and make objective rulings. It uses existing trust relationships for oversight.\
-\
-In the BrightID domain, experts evaluate whether a BrightID identifier is a person's only identifier or a duplicate. This can result in a positive Aura verification level, which can unlock that person's ability to link to apps that want an assurance that they only have one account.
+Domains that can be evaluated:
 
-Integrating apps can let users log in normally using OAuth or Passkeys or [the BrightID mobile app](getting-started/get-brightid.md) can be used to create a universal, socially recoverable identifier.
+* Human uniqueness (one account per person)
+* Work performance or eligibility
+* Certifications
+* Community membership
+* Physical residence
+* Insurance claims
+* Grant eligibility
+* Accomplishments or impact
+* Voter eligibility
+* Compliance
 
-Although anyone is welcome to play Aura to help verify other people, this isn't required to get an Aura verification. Instead, most people should follow the simple instructions in Aura Verified. No personal information is shared with Aura players that they don't already know.
+Although Aura was original created to assist in the human uniqueness (BrightID) domain, the mechanism is interoperable with these and many other domains.
+
+What sets Aura apart:
+
+* Participation is open to anyone
+* Evaluation impact is determined by existing participants and the wisdom of the crowd (those who rely on Aura evaluations)
+
+### Participation & Privacy
+
+Although anyone is welcome to play Aura to create evaluations or verify other people, this isn't required to get an Aura verification.
+
+People who just want a verification should follow the simple instructions in Aura Verified. No personal information is shared with Aura players that they don't already know.
+
+Proofs (verifications) follow advanced standards of privacy to ensure that no one links additional information or previous activity when they share a proof with an app.
+
+### Learn more
 
 If you would like to learn more about how Aura works, meet other Aura players and discuss best practices, [join the Aura discord](https://discord.gg/y24xeXq7mj).
 
