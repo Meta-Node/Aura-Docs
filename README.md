@@ -18,7 +18,7 @@ Aura is a decentralized way to evaluate and determine eligibility in domains suc
 * Voter eligibility
 * Compliance
 
-Although Aura was original created to assist in the human uniqueness (BrightID) domain, the mechanism is interoperable with these and many other domains.
+Although Aura was original created to assist in the human uniqueness (BrightID) domain, the protocol is interoperable with these and many other domains.
 
 ### Decentralization
 
@@ -33,7 +33,7 @@ Although anyone is welcome to play Aura to create evaluations or verify other pe
 
 People who just want a verification should follow the simple instructions in Aura Verified. No personal information is shared with Aura players that they don't already know.
 
-Verification proofs follow advanced standards of privacy to ensure that no one links additional information or previous activity when they share a proof with an app.
+Verification proofs follow advanced standards of privacy to ensure that no one links extraneous information or previous activity when they share a proof with an app.
 
 ### Learn more
 
