@@ -33,7 +33,7 @@ Although anyone is welcome to play Aura to create evaluations or verify other pe
 
 People who just want a verification should follow the simple instructions in Aura Verified. No personal information is shared with Aura players that they don't already know.
 
-Verification proofs follow advanced standards of privacy to ensure that no one links extraneous information or previous activity when they share a proof with an app.
+Verification proofs follow advanced standards of privacy to ensure that information isn't leaked between domains or apps.
 
 ### Learn more
 
